@@ -1,0 +1,12 @@
+.singer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+    font-size: 1.4em;
+    flex: 1;
+    outline: 1px solid #888888;
+    font-weight: bolder;
+    background-color: #fe9241;
+    color: #ffffff;
+}
