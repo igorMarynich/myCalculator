@@ -1,2 +1,2 @@
-# myCalculate
+# myCalculat
 React project
